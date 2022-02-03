@@ -1,4 +1,4 @@
-<h5>Version0.0.1</h5>
+<h5>Version .0.2</h5>
 
 <hui align=center>T3A04-Web-Basics-by-Fred.htmt</h1>
 
@@ -14,3 +14,27 @@ src=<http://hairlesscatblog.com/wp-content/uplpads/2014/02/types-of-hairless-cut
 YouTube Embedded video <br>
 img width=200
 src="https://hairlesscatblog.com/wp-contest
+<iframe width="300"height height="200" src="https:youtube.com/embed/kTGTdc-qbg" fremeborder="0"
+allow="acclerometer;autoplay;encryped-media; gyroscope; picture-in-picture"
+allowfullscreen><iframe>
+<hr>
+<div>This is a </div>
+<div>div>div>
+<div>div</div>
+
+<span>This is </span>
+<span> a sapn<span/>
+
+
+<h3>Write about Ellis' 10 main areas of coding</h3>
+
+<input type=button value="0. Pseudo Code" inclick="{
+document.getElementById('myDiv01').interHTML='Input adffgdsfsgfdfg<br>'
+}">
+<input type=button value="1Input/Output" onclick="{
+document.getElementById('myDiv01').interHTML='Input adffgdsfsgfdfg<br>'
++'sdfg<broutout is...'
+}">
+
+
+<input type
